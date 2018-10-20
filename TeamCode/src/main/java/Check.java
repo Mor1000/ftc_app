@@ -1,6 +1,6 @@
 public class Check {
     public void t() {
-        int r = 33;
+        int r44 = 33;
         int x=333;
     }
 
